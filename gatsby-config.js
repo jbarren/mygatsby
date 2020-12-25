@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "my-gatsby",
   },
+  pathPrefix: "/reponame",
   plugins: [
     "gatsby-plugin-sass",
     "gatsby-plugin-sharp",
